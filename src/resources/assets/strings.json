@@ -1,0 +1,28 @@
+{
+  "understand": "Зрозуміло",
+  "sign_in": "Увійти",
+  "email": "Електронна адреса",
+  "password": "Пароль",
+  "repeatPassword": "Повторіть пароль",
+  "create_account": "Бажаєте створити акаунт?",
+  "already_have_account": "Вже маєте акаунт?",
+  "sign_up": "Реєстрація",
+  "register": "Зареєструватись",
+  "firstName": "Ім'я",
+  "lastName": "Прізвище",
+  "validation": {
+    "common": {
+      "must_match": "Повинно збігатись з паролем",
+      "minimum": "Занадто коротко",
+      "maximum": "Занадто багато",
+      "required": "Заповніть це поле",
+      "email_error": "Електронна адреса некоректна",
+      "password_error": "Пароль некоректний"
+    }
+  },
+  "home_label": "Тренування",
+  "profile_label": "Профіль",
+  "home": {
+    "add_trainning": "Додати тренування"
+  }
+}
